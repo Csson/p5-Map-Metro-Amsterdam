@@ -8,7 +8,7 @@ use Moose;
 with 'Map::Metro::Plugin::Map';
 
 has '+mapfile' => (
-    default => 'map-<<cityname>>.metro',
+    default => 'map-amsterdam.metro',
 );
 sub map_version {
     return $VERSION;
@@ -38,7 +38,7 @@ See L<Map::Metro> for usage information.
 
 =head1 Status
 
-...
+As of 2015-01-01 it contains lines 50, 51, 53 and 54. See (L<wikipedia|https://en.wikipedia.org/wiki/Amsterdam_metro>).
 
 =head1 AUTHOR
 
