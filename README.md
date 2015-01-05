@@ -15,6 +15,8 @@ See [Map::Metro](https://metacpan.org/pod/Map::Metro) for usage information.
 
 As of 2015-01-01 it contains lines 50, 51, 53 and 54. See ([wikipedia](https://en.wikipedia.org/wiki/Amsterdam_metro)).
 
+See [Map::Metro::Plugin::Map::Amsterdam::Lines](https://metacpan.org/pod/Map::Metro::Plugin::Map::Amsterdam::Lines).
+
 # AUTHOR
 
 Erik Carlsson <info@code301.com>

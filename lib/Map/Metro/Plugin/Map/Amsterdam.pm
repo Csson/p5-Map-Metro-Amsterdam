@@ -40,6 +40,14 @@ See L<Map::Metro> for usage information.
 
 As of 2015-01-01 it contains lines 50, 51, 53 and 54. See (L<wikipedia|https://en.wikipedia.org/wiki/Amsterdam_metro>).
 
+See L<Map::Metro::Plugin::Map::Amsterdam::Lines>.
+
+=begin HTML
+
+<p><a href="https://raw.githubusercontent.com/Csson/p5-Map-Metro-Amsterdam/master/static/images/amsterdam.png"><img src="https://raw.githubusercontent.com/Csson/p5-Map-Metro-Amsterdam/master/static/images/amsterdam.png" style="max-width: 600px" /></a></p>
+
+=end HTML
+
 =head1 AUTHOR
 
 Erik Carlsson E<lt>info@code301.comE<gt>
