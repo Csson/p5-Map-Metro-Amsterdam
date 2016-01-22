@@ -9,15 +9,20 @@ Revision history for Map-Metro-Plugin-Map-Amsterdam
 
  [Enhancements]
 
- [Other Changes]
-  - Rebuilt with latest Dist::Iller::Config::Author::CSSON(::MapMetro).
-
  [New Features]
 
- [Requirements]
-  - Bump Map::Metro to 0.2300.
+ [Other Changes]
 
- [Revision]
+ [Requirements]
+
+ [Testing]
+
+0.1102 2016-01-22T18:15:49Z UTC
+ [Other Changes]
+ - Rebuilt with latest Dist::Iller::Config::Author::CSSON(::MapMetro).
+
+ [Requirements]
+ - Bump Map::Metro to 0.2300.
 
 0.1101 2015-01-25T18:48:16Z CET
  [Documentation]
