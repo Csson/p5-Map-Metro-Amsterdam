@@ -2,7 +2,7 @@
 
 Map::Metro::Plugin::Map::Amsterdam
 
-![Requires Perl 5.16+](https://img.shields.io/badge/perl-5.16+-brightgreen.svg) [![Travis status](https://api.travis-ci.org/Csson/p5-Map-Metro-Amsterdam.svg?branch=master)](https://travis-ci.org/Csson/p5-Map-Metro-Amsterdam) 
+![Requires Perl 5.16+](https://img.shields.io/badge/perl-5.16+-brightgreen.svg) [![Travis status](https://api.travis-ci.org/Csson/p5-Map-Metro-Amsterdam.svg?branch=master)](https://travis-ci.org/Csson/p5-Map-Metro-Amsterdam) ![coverage 69.2%](https://img.shields.io/badge/coverage-69.2%-red.svg)
 
 # VERSION
 
