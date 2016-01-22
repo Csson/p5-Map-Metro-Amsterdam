@@ -2,9 +2,15 @@
 
 Map::Metro::Plugin::Map::Amsterdam
 
+![Requires Perl 5.16+](https://img.shields.io/badge/perl-5.16+-brightgreen.svg) [![Travis status](https://api.travis-ci.org/Csson/p5-Map-Metro-Amsterdam.svg?branch=master)](https://travis-ci.org/Csson/p5-Map-Metro-Amsterdam) 
+
 # VERSION
 
-Version 0.1101, released 2015-01-25.
+Version 0.1102, released 2016-01-22.
+
+# NAME
+
+Map::Metro::Plugin::Map::Amsterdam - Map::Metro map for Amsterdam
 
 # SYNOPSIS
 
@@ -19,10 +25,6 @@ Or:
 
 See [Map::Metro](https://metacpan.org/pod/Map::Metro) for usage information.
 
-# NAME
-
-Map::Metro::Plugin::Map::Amsterdam - Map::Metro map for Amsterdam
-
 # Status
 
 This map [contains](https://metacpan.org/pod/Map::Metro::Plugin::Map::Amsterdam::Lines):
@@ -31,11 +33,11 @@ This map [contains](https://metacpan.org/pod/Map::Metro::Plugin::Map::Amsterdam:
 
 # SOURCE
 
-Source repository is at [https://github.com/Csson/p5-Map-Metro-Amsterdam](https://github.com/Csson/p5-Map-Metro-Amsterdam).
+[https://github.com/Csson/p5-Map-Metro-Amsterdam](https://github.com/Csson/p5-Map-Metro-Amsterdam)
 
 # HOMEPAGE
 
-Please visit the project's homepage at [https://metacpan.org/release/Map-Metro-Plugin-Map-Amsterdam](https://metacpan.org/release/Map-Metro-Plugin-Map-Amsterdam).
+[https://metacpan.org/release/Map-Metro-Plugin-Map-Amsterdam](https://metacpan.org/release/Map-Metro-Plugin-Map-Amsterdam)
 
 # AUTHOR
 
@@ -43,7 +45,7 @@ Erik Carlsson <info@code301.com>
 
 # COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2015 by Erik Carlsson <info@code301.com>.
+This software is copyright (c) 2016 by Erik Carlsson.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
