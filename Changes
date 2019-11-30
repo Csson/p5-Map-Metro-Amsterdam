@@ -12,6 +12,7 @@ Revision history for Map-Metro-Plugin-Map-Amsterdam
  [New Features]
 
  [Other Changes]
+ - Rebuilt with current dzil configuration.
 
  [Requirements]
 
