@@ -2,7 +2,9 @@ use 5.14.0;
 
 package Map::Metro::Plugin::Map::Amsterdam;
 
-# VERSION
+# ABSTRACT: Map::Metro map for Amsterdam
+# AUTHORITY
+our $VERSION = '0.1103';
 
 use Moose;
 with 'Map::Metro::Plugin::Map';
@@ -22,10 +24,6 @@ sub map_package {
 __END__
 
 =encoding utf-8
-
-=head1 NAME
-
-Map::Metro::Plugin::Map::Amsterdam - Map::Metro map for Amsterdam
 
 =head1 SYNOPSIS
 
