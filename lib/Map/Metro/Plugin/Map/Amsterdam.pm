@@ -4,7 +4,7 @@ package Map::Metro::Plugin::Map::Amsterdam;
 
 # ABSTRACT: Map::Metro map for Amsterdam
 # AUTHORITY
-our $VERSION = '0.1103';
+our $VERSION = '0.1104';
 
 use Moose;
 with 'Map::Metro::Plugin::Map';
